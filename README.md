@@ -1,8 +1,8 @@
 # Portfolio Website V3
 
-![Preview](public/images/preview.png)
+![Preview](public/images/desktopportofolio.png)
 
-<p align='center'>Third revision of my portfolio website.</p>
+<p align='center'>My portfolio with multipage changes from the first revision (rework from tfkhdyt portfolio v3)</p>
 
 ## Build With
 
@@ -27,8 +27,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/tfkhdyt/web-portfolio-v3
-cd web-portfolio-v3
+git clone https://github.com/Seann21/Portofolio-V2.git
+cd Portofolio-V2
 pnpm install
 # npm install
 # yarn install
