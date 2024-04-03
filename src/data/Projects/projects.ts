@@ -45,7 +45,7 @@ export const projects: Project[] = [
       demo: 'https://netflix-clone-seann21.vercel.app/',
       repo: 'https://github.com/Seann21/Netflix-Clone',
     },
-    tech: ['React', 'Vite', 'Firebase'],
+    tech: ['React', 'Vite'],
   },
   {
     name: 'Arena Poinball',
