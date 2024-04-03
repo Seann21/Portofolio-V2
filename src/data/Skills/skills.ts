@@ -163,7 +163,7 @@ export const skills: Skill[] = [
    {
     name: 'Firebase',
     category: 'Framework/Library',
-    icon: 'Firebase.svg',
+    icon: 'firebase.png',
    },
    {
     name: 'laravel',
