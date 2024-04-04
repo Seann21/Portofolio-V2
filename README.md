@@ -1,4 +1,4 @@
-# Portfolio Website V3
+# Portfolio Website V2
 
 ![Preview](public/images/desktopportofolio.png)
 
