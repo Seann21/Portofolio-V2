@@ -123,6 +123,20 @@ export const projects: Project[] = [
     ],
   },
   {
+    name: 'UMKM Telur gulung',
+    category: 'Website',
+    desc: 'an egg roll UMKM website created with a grid layout as CSS practice',
+    link: {
+      demo: 'https://umkm-telurgulung.vercel.app/',
+      repo: 'https://github.com/Seann21/umkm-telurgulung',
+    },
+    tech: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+    ],
+  },
+  {
     name: 'Portofolio V2',
     category: 'Website',
     desc: 'My portfolio with multipage changes from the first revision',
