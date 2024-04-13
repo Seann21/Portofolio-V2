@@ -1,18 +1,18 @@
 import { IWorkExperience } from './workExperience.d';
 
 export const workExperience: IWorkExperience[] = [
-  {
-    name: 'Competition from BPJS Kesehatan Categories System Innovation ',
-    type: 'Experience Healthkathon ',
-    tasks: [
-      'Designing AI Chatbots on Websites',
-      'Monitoring the System with the Team',
-      'Data Security and Privacy Handling AI',
-      'AI Model Training and Algorithm Adjustment',
-      'Chatbot Performance Optimization',
-    ],
-    timePeriod: '2023',
-  },
+  // {
+  //   name: 'Competition from BPJS Kesehatan Categories System Innovation ',
+  //   type: 'Experience Healthkathon ',
+  //   tasks: [
+  //     'Designing AI Chatbots on Websites',
+  //     'Monitoring the System with the Team',
+  //     'Data Security and Privacy Handling AI',
+  //     'AI Model Training and Algorithm Adjustment',
+  //     'Chatbot Performance Optimization',
+  //   ],
+  //   timePeriod: '2023',
+  // },
   {
     name: 'NCode (Coding community on campus) Mobile Apps Devisions',
     type: 'Organization University Nusantara PGRI Kediri',
