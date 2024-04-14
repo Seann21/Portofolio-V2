@@ -4,10 +4,8 @@ const MetaTags = () => {
   return (
     <>
       {/* google site verification */}
-      <meta
-        name='google-site-verification'
-        content='JCu7ig2hkiijnjnq8doWrgNg9HPCpWwo2WrTQWko8Cs'
-      />
+     <meta name="google-site-verification" 
+    content="p_xx1S4icXs1r-naxIK-l6cF1U-9CIgdrTNJtwnP4zo" />
       {/* metadata */}
       <meta name='description' content={metaTagsData.deskripsi} />
       <meta name='keywords' content={metaTagsData.keywords.join(',')} />
