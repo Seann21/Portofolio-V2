@@ -159,6 +159,7 @@ export const skills: Skill[] = [
     name: 'NextAuth',
     category: 'Framework/Library',
     icon: 'nextauth.png',
+    show: false
    },
    {
     name: 'Firebase',
