@@ -8,8 +8,8 @@ export const contacts: Contact[] = [
   },
   {
     name: 'Telegram',
-    label: '@SeanDHs',
-    link: 'https://t.me/SeanDHs',
+    label: '@SeanCode',
+    link: 'https://t.me/SeanCode',
   },
   {
     name: 'GitHub',
