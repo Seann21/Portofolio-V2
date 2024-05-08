@@ -48,6 +48,19 @@ export const projects: Project[] = [
     tech: ['React', 'Vite','Firebase'],
   },
   {
+    name: 'Ecommerce-Catalog',
+    category: 'Website',
+    desc: 'A final project from the Vue JS Core Initiative Studio x Rakamin Academy to create ecommerce with API integration from the fakestore api.',
+    link: { 
+      demo: 'https://seann-ecommerce-catalog.vercel.app/',
+      repo: 'https://github.com/Seann21/ecommerce-catalog',
+    },
+    tech: [
+  'Vue.js',
+  'Vite',
+  'TypeScript'],
+  },
+  {
     name: 'Arena Poinball',
     category: 'Misc',
     desc: 'Poin Ball is a simple project showcasing a pinball game with a futuristic-themed GIF background.', 
