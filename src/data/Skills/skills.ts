@@ -103,6 +103,11 @@ export const skills: Skill[] = [
     category: 'Framework/Library',
     icon: 'express.png',
   },
+   {
+    name: 'Vue.js',
+    category: 'Framework/Library',
+    icon: 'vuejs.svg',
+  },
   {
     name: 'NestJS',
     category: 'Framework/Library',
