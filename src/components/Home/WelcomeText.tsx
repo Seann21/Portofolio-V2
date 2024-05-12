@@ -40,9 +40,9 @@ const WelcomeText: FC<Props> = ({ isDark }) => {
             sequence={[
               'Front End Developer',
               2000,
-              'Web Development',
+              'Software Engineer',
               2000,
-              'UI/UX Design',
+              'Web Designer',
               2000,
             ]}
             cursor={true}
