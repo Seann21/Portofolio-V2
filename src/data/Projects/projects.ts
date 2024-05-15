@@ -202,6 +202,14 @@ export const projects: Project[] = [
     },
     tech: ['HTML, CSS', 'JavaScript', 'Jquery', 'Bootstrap', 'Tailwind CSS'],
   },
- 
-  
+  {
+    name: 'UMKM Es Coklat Jadoel',
+    category: 'Website',
+    desc: 'Practical assignment for final 3rd semester exam on basic web programming to create a Jadoel chocolate ice umkm website using WordPress design',
+    link: {
+      repo: null,
+      demo: 'https://dev-escoklatjadoelbyhasanandfaris.pantheonsite.io',
+    },
+    tech: ['WordPress'],
+  }
 ];
