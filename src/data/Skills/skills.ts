@@ -150,6 +150,11 @@ export const skills: Skill[] = [
     show: false
   },
   {
+    name: 'WordPress',
+    category: 'Tools',
+    icon: 'wordpress.svg',
+  },
+  {
     name: 'Prisma',
     category: 'Framework/Library',
     icon: 'prisma.png',
