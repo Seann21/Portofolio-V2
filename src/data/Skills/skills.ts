@@ -206,6 +206,11 @@ export const skills: Skill[] = [
     icon: 'hapi.png',
     show: false
   },
+   {
+    name: 'Bun',
+    category: 'Framework/Library',
+    icon: 'bun.png',
+  },
   {
     name: 'tRPC',
     category: 'Framework/Library',
@@ -227,11 +232,6 @@ export const skills: Skill[] = [
     name: 'Tailwind CSS',
     category: 'UI Framework/Component',
     icon: 'tailwind.svg',
-  },
-  {
-    name: 'Bun',
-    category: 'UI Framework/Component',
-    icon: 'bun.png',
   },
   {
     name: 'Flowbite',
