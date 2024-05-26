@@ -229,6 +229,11 @@ export const skills: Skill[] = [
     icon: 'tailwind.svg',
   },
   {
+    name: 'Bun',
+    category: 'UI Framework/Component',
+    icon: 'bun.png',
+  },
+  {
     name: 'Flowbite',
     category: 'UI Framework/Component',
     icon: 'flowbite.svg',
