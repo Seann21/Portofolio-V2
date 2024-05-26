@@ -13,6 +13,20 @@ export const projects: Project[] = [
     tech: ['React', 'Vite', 'Tailwind CSS'],
   },
   {
+    name: 'ChatYol AI',
+    category: 'Website',
+    desc: 'An interesting game list manager web application with development using React JS, Vite for efficiency, and connected via RAWG API. The modern and responsive interface is implemented with Tailwind CSS.',
+    link: {
+      demo: 'https://chatyol-ai.vercel.app',
+      repo: 'https://github.com/Seann21/ChatYolAi',
+    },
+    tech: [
+      'Bun',
+      'Vite', 
+      'Tailwind CSS'
+    ],
+  },
+  {
     name: 'Certificate Generator',
     category: 'Misc',
     desc: 'This project is a web application that allows you to create certificates easily and quickly. Users can enter information such as participant names, program names, dates, and logos, and the app will automatically generate professional-looking certificates.',
