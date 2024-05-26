@@ -15,7 +15,7 @@ export const projects: Project[] = [
   {
     name: 'ChatYol AI',
     category: 'Website',
-    desc: 'An interesting game list manager web application with development using React JS, Vite for efficiency, and connected via RAWG API. The modern and responsive interface is implemented with Tailwind CSS.',
+    desc: 'ChatYol AI is an advanced chatbot built with Vite, React.js, and styled using Tailwind CSS. It leverages the GROQ AI API powered by the LLAMA3-8b-8192 model, providing extremely fast response times.',
     link: {
       demo: 'https://chatyol-ai.vercel.app',
       repo: 'https://github.com/Seann21/ChatYolAi',
