@@ -243,6 +243,6 @@ export const projects: Project[] = [
       demo: 'https://dev-escoklatjadoelbyhasanandfaris.pantheonsite.io',
     },
     tech: ['WordPress'],
-    image: '/images/projects/wordpress UMKM.png',
+    image: '/images/projects/wordpressproject.png',
   }
 ];
