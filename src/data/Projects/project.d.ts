@@ -10,4 +10,5 @@ export interface Project {
     demo: string | null;
     repo: string | null;
   };
+  image: string;
 }
