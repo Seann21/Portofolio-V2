@@ -39,6 +39,8 @@ const ProjectCard: FC<Props> = ({ project }) => {
       }}
       className={classes.card}
     >
+
+      {/* Project Git & demo section */}
       <Box
         sx={{
           display: 'flex',
@@ -73,6 +75,29 @@ const ProjectCard: FC<Props> = ({ project }) => {
           )}
         </Box>
       </Box>
+
+      {/* Image Section */}
+      <Box
+        sx={{
+          position: 'relative',
+          height: 0,
+          paddingBottom: '56.25%', 
+          width: '100%',
+          overflow: 'hidden',
+          borderRadius: '10px',
+          marginTop: '1rem',
+          marginBottom: '0.5rem',
+        }}
+      >
+        <Image
+          src={project.image}
+          alt={project.name}
+          layout='fill'
+          objectFit='cover'
+          style={{ borderRadius: '10px' }}
+        />
+      </Box>       
+
       <Text my='md' sx={{ flexGrow: 2 }}>
         {project.desc}
       </Text>
