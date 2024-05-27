@@ -11,6 +11,7 @@ export const projects: Project[] = [
       repo: 'https://github.com/Seann21/Portal-GameID',
     },
     tech: ['React', 'Vite', 'Tailwind CSS'],
+    image: '/images/projects/Portal Game ID.png',
   },
   {
     name: 'ChatYol AI',
@@ -25,6 +26,7 @@ export const projects: Project[] = [
       'Vite', 
       'Tailwind CSS'
     ],
+    image: '/images/projects/Chatyol AI.png',
   },
   {
     name: 'Certificate Generator',
@@ -35,6 +37,7 @@ export const projects: Project[] = [
       repo: 'https://github.com/Seann21/Certificate-Generator',
     },
     tech: ['React', 'Vite'],
+    image: '/images/projects/certif.png',
   },
   {
     name: 'Hulu Tv Clone App',
@@ -50,6 +53,7 @@ export const projects: Project[] = [
       'JavaScript',
       'Jquery',
     ],
+    image: '/images/projects/Hulu Tv.png',
   },
   {
     name: 'Netflix Clone',
@@ -60,6 +64,7 @@ export const projects: Project[] = [
       repo: 'https://github.com/Seann21/Netflix-Clone',
     },
     tech: ['React', 'Vite','Firebase'],
+    image: '/images/projects/Netflix.png',
   },
   {
     name: 'Ecommerce-Catalog',
@@ -73,6 +78,7 @@ export const projects: Project[] = [
   'Vue.js',
   'Vite',
   'TypeScript'],
+  image: '/images/projects/ecommerceCatalog.png',
   },
   {
     name: 'Arena Poinball',
@@ -83,6 +89,7 @@ export const projects: Project[] = [
       demo: 'https://arena-poinball.vercel.app/',
     },
     tech: ['HTML', 'CSS', 'JavaScript', 'Jquery'],
+    image: '/images/projects/Arena Poinball.png',
   },
 
   {
@@ -94,6 +101,7 @@ export const projects: Project[] = [
       demo: 'https://language-translator-xi.vercel.app/',
     },
     tech: ['HTML', 'CSS', 'JavaScript'],
+    image: '/images/projects/translate.png',
   },
   {
     name: 'Battery Detector',
@@ -104,6 +112,7 @@ export const projects: Project[] = [
       repo: 'https://github.com/Seann21/Battery-Detector',
     },
     tech: ['HTML', 'CSS', 'JavaScript'],
+    image: '/images/projects/battery.png',
   },
   {
     name: 'Notepad Online',
@@ -114,6 +123,7 @@ export const projects: Project[] = [
       repo: 'https://github.com/Seann21/Notepad-online',
     },
     tech: ['HTML', 'CSS', 'JavaScript'],
+    image: '/images/projects/Notepad.png',
   },
   {
     name: 'Bookshelf api',
@@ -124,6 +134,7 @@ export const projects: Project[] = [
       demo: null,
     },
     tech: ['JavaScript', 'Node.js'],
+    image: '/images/projects/apibookshelf.png',
   },
   {
     name: 'Portfolio Website v1',
@@ -134,6 +145,7 @@ export const projects: Project[] = [
       repo: 'https://github.com/Seann21/Portofolio-v1',
     },
     tech: ['HTML', 'CSS', 'JavaScript', 'Tailwind CSS'],
+    image: '/images/projects/PortoV1.png',
   },
   {
     name: 'Hospital Website',
@@ -148,6 +160,7 @@ export const projects: Project[] = [
       'CSS',
       'JavaScript',
     ],
+    image: '/images/projects/Hospital Website.png',
   },
   {
     name: 'UMKM Telur gulung',
@@ -162,6 +175,7 @@ export const projects: Project[] = [
       'CSS',
       'JavaScript',
     ],
+    image: '/images/projects/UMKM Telur gulung.png',
   },
   {
     name: 'Portofolio V2',
@@ -181,6 +195,7 @@ export const projects: Project[] = [
       'Framer Motion',
 
     ],
+    image: '/images/projects/desktopportofolio.png',
   },
   {
     name: 'Password Generator',
@@ -195,6 +210,7 @@ export const projects: Project[] = [
       'CSS',
       'JavaScript',
     ],
+    image: '/images/projects/passwordgenerator.png',
   },
   {
     name: 'Immposible Checkbox',
@@ -205,6 +221,7 @@ export const projects: Project[] = [
       repo: 'https://github.com/Seann21/impossible-checkbox',
     },
     tech: ['HTML', 'CSS', 'JavaScript'],
+    image: '/images/projects/immposible.png',
   },
   {
     name: 'My College 3rd assignments',
@@ -215,6 +232,7 @@ export const projects: Project[] = [
       demo: null,
     },
     tech: ['HTML, CSS', 'JavaScript', 'Jquery', 'Bootstrap', 'Tailwind CSS'],
+    image: '/images/projects/UAS S3.png',
   },
   {
     name: 'UMKM Es Coklat Jadoel',
@@ -225,5 +243,6 @@ export const projects: Project[] = [
       demo: 'https://dev-escoklatjadoelbyhasanandfaris.pantheonsite.io',
     },
     tech: ['WordPress'],
+    image: '/images/projects/wordpress UMKM.png',
   }
 ];
