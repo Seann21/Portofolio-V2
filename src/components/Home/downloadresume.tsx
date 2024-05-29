@@ -5,7 +5,7 @@ const DownloadResumeButton = () => {
 			download='Hasanefendi CV.pdf'
 			target='_blank'
 			rel='noreferrer'
-			className='flex items-center py-2 px-4 mx-auto mt-4 text-sm font-bold bg-gradient-to-r from-pink-700 to-indigo-700 rounded-lg border md:py-2.5 md:px-5 md:mx-0 focus:outline-none w-fit text-white '
+			className='flex items-center py-2 px-4 mx-auto mt-4 text-sm font-bold bg-gradient-to-r from-pink-700 to-indigo-700 hover:from-black hover:to-violet-700 rounded-lg border md:py-2.5 md:px-5 md:mx-0 focus:outline-none w-fit text-white transition duration-300'
 			data-umami-event='Download resume button'
 		>
 			<svg
