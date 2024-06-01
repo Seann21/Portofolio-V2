@@ -6,7 +6,7 @@ const WorkExperience = () => {
   return (
     <Box mt='md'>
       <Text size={42} weight='bold'>
-      Organization Experience
+      Internship Experience
       </Text>
       <Timeline active={2} mt='sm'>
         {workExperience.map((each) => (
