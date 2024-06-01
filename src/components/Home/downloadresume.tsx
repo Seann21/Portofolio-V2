@@ -9,16 +9,16 @@ const DownloadResumeButton = () => {
 		setTimeout(() => {
 			setIsLoading(false);
 			const link = document.createElement('a');
-			link.href = '/Hasanefendi CV.pdf';
-			link.download = 'Hasanefendi CV.pdf';
+			link.href = '/CV HasanEfendi.pdf';
+			link.download = 'CV HasanEfendi.pdf';
 			link.click();
 		}, 2000); 
 	};
 
 	return (
 		<a
-			href='/Hasanefendi CV.pdf'
-			download='Hasanefendi CV.pdf'
+			href='/CV HasanEfendi.pdf'
+			download='CV HasanEfendi.pdf'
 			target='_blank'
 			rel='noreferrer'
 			onClick={handleClick}
