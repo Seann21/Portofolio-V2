@@ -131,12 +131,11 @@ export const skills: Skill[] = [
     category: 'Framework/Library',
     icon: 'vite.svg',
   },
-  // {
-  //   name: 'Zustand',
-  //   category: 'Framework/Library',
-  //   icon: 'zustand.png',
-  //   show: false,
-  // },
+  {
+    name: 'Zustand',
+    category: 'Framework/Library',
+    icon: 'zustand.png',
+  },
   {
     name: 'React Hook Form',
     category: 'Framework/Library',
@@ -186,7 +185,6 @@ export const skills: Skill[] = [
     name: 'Framer Motion',
     category: 'Framework/Library',
     icon: 'framer-motion.png',
-    show: false
   },
   {
     name: 'React Query',
@@ -242,6 +240,7 @@ export const skills: Skill[] = [
     name: 'Semantic UI',
     category: 'UI Framework/Component',
     icon: 'semantic.png',
+    show: false,
   },
   {
     name: 'daisyUI',
@@ -252,7 +251,6 @@ export const skills: Skill[] = [
     name: 'Mantine',
     category: 'UI Framework/Component',
     icon: 'mantine.svg',
-    show: false
   },
   {
     name: 'UnoCSS',
