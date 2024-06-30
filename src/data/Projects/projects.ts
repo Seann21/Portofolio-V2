@@ -29,6 +29,25 @@ export const projects: Project[] = [
     image: '/images/projects/Chatyol AI.png',
   },
   {
+    name: 'SMK Kusuma Bangsa',
+    category: 'Website',
+    desc: 'A Kusuma Bangsa Vocational School website that upholds the integration of academic information systems (siakad) in it was developed by 8 classmates consisting of UI/UX designers and programmers to be used as the final project for the technology innovation course.',
+    link: {
+      demo: 'https://smkkusumabangsa-b2018.web.app/',
+      repo: 'https://github.com/Seann21/KusumaBangsaWebsite',
+    },
+    tech: [
+      'React',
+      'Vite', 
+      'TypeScript',
+      'Tailwind CSS',
+      'Framer Motion',
+      'laravel',
+      'PHP',
+    ],
+    image: '/images/projects/smkn1.png',
+  },
+  {
     name: 'Certificate Generator',
     category: 'Misc',
     desc: 'This project is a web application that allows you to create certificates easily and quickly. Users can enter information such as participant names, program names, dates, and logos, and the app will automatically generate professional-looking certificates.',
