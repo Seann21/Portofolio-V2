@@ -1,6 +1,6 @@
 # Portfolio Website V2
 
-![Preview](public/images/desktopportofolio.png)
+![Preview](public/images/ReviewPortofolio.png)
 
 <p align='center'>My portfolio with multipage changes from the first revision (rework from <a href="https://github.com/tfkhdyt/web-portfolio-v3">tfkhdyt</a> portfolio v3)</p>
 
