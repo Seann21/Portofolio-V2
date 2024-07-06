@@ -15,8 +15,12 @@ const SwitchToggle = () => {
       <Switch
         checked={colorScheme === 'dark'}
         onChange={() => toggleColorScheme()}
+        styles={{
+          thumb: { cursor: 'pointer' },
+          track: { cursor: 'pointer' }
+        }}
         size='md'
-        color={colorScheme === 'dark' ? 'gray' : 'dark'}
+        color={colorScheme === 'dark' ? 'violet' : 'dark'}
         onLabel={<BsFillSunFill size={14} color='yellow' />}
         offLabel={<BsFillMoonFill size={14} color={theme.colors.violet[5]} />}
       />
