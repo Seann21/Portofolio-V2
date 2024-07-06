@@ -58,7 +58,7 @@ const DownloadResumeButton = () => {
 					/>
 				</svg>
 			)}
-			<span>{isLoading ? 'Loading...' : 'Download Resume'}</span>
+			<span>{isLoading ? 'Loading...' : 'Download CV'}</span>
 		</a>
 	);
 };
