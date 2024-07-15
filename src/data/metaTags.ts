@@ -1,6 +1,6 @@
 export const metaTagsData = {
   header: 'Moh Hasan Efendi | Front End Developer',
-  title: 'Moh Hasan Efendi | Front End Developer',
+  title: 'Hasan | Frontend Dev',
   favicon: '/images/favicon.png',
   link: '',
   deskripsi:
