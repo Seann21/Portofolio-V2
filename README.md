@@ -1,6 +1,6 @@
 <h1 align='center'>Portfolio Website V2</h1>
 
-![Preview](public/images/ReviewPortofolio.png)
+![Preview](public/images/mockupimg.png)
 
 <p align='center'>My portfolio with multipage changes from the first revision (rework from <a href="https://github.com/tfkhdyt/web-portfolio-v3">tfkhdyt</a> portfolio v3)</p>
 
