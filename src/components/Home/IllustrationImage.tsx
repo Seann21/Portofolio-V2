@@ -6,9 +6,10 @@ interface Props {
   src: string;
   width: number;
   height: number;
+  isDark: boolean;
 }
 
-const IllustrationImage: FC<Props> = ({ src, width, height }) => {
+const IllustrationImage: FC<Props> = ({ src, width, height, isDark }) => {
   return (
     <Grid.Col sm={6} orderSm={2}>
       <Group position='center'>
@@ -18,6 +19,7 @@ const IllustrationImage: FC<Props> = ({ src, width, height }) => {
           width={width}
           height={height}
           priority
+          style={{ filter: isDark ? 'invert(1)' : 'invert(0)' }} // Add this line
         />
       </Group>
     </Grid.Col>
