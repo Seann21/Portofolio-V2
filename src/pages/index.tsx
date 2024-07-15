@@ -17,12 +17,13 @@ const Home: NextPage = () => {
         sx=
         {{ 
           width: '100%',
-          marginLeft: '100px'
+          margin: '48px',
          }}>
           <IllustrationImage
-            src='/images/ilustrasiboy.png'
+            src='/images/avatar.png'
             width={350}
             height={300}
+            isDark={isDark} 
           />
           <WelcomeText isDark={isDark} />
         </Grid>
