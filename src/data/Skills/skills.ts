@@ -248,6 +248,11 @@ export const skills: Skill[] = [
     icon: 'daisy.svg',
   },
   {
+    name: 'Ant Design',
+    category: 'UI Framework/Component',
+    icon: 'ant.png',
+  },
+  {
     name: 'Mantine',
     category: 'UI Framework/Component',
     icon: 'mantine.svg',
