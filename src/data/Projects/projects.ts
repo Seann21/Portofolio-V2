@@ -263,5 +263,20 @@ export const projects: Project[] = [
     },
     tech: ['WordPress'],
     image: '/images/projects/wordpressproject.png',
-  }
+  },
+  {
+    name: 'YouPanel Course',
+    category: 'Website',
+    desc: 'YouPanel Course is a panel to review a lesson that is used to learn knowledge about programming and others (at this time it is only slicing and is still not fully working).',
+    link: {
+      repo: 'https://github.com/Seann21/YouPanelCourse',
+      demo: 'https://youpanelsilicing.vercel.app/',
+    },
+    tech: [
+      'Next.js',
+      'Tailwind CSS',
+      'Ant Design',
+    ],
+    image: '/images/projects/YouPanel.png',
+  },
 ];
