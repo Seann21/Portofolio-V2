@@ -279,4 +279,20 @@ export const projects: Project[] = [
     ],
     image: '/images/projects/YouPanel.png',
   },
+  {
+    name: 'ChatYol Landing Page',
+    category: 'Website',
+    desc: 'A landing page designed to give you an idea of the advanced capabilities of ChatYol AI, a chatbot created to increase your productivity with fast and accurate solutions but still in its infancy.',
+    link: {
+      repo: 'https://github.com/Seann21/ChatYol-LandingPage',
+      demo: 'https://chatyol-landingpage.vercel.app',
+    },
+    tech: [
+      'Next.js',
+      'TypeScript',
+      'Tailwind CSS',
+      'Framer Motion',
+    ],
+    image: '/images/projects/ChatyolLandingpage.png',
+  },
 ];
