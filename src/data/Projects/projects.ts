@@ -295,4 +295,19 @@ export const projects: Project[] = [
     ],
     image: '/images/projects/ChatyolLandingpage.png',
   },
+  {
+    name: 'Kemah Kuy',
+    category: 'Website',
+    desc: 'Kemah Kuy is a landing page designed to facilitate camping or hiking trips by providing comprehensive information about locations, facilities, and camping tips in Indonesia.',
+    link: {
+      repo: 'https://github.com/Seann21/Kemah-Kuy',
+      demo: 'https://kemah-kuy.vercel.app/',
+    },
+    tech: [
+      'Next.js',
+      'TypeScript',
+      'Tailwind CSS',
+    ],
+    image: '/images/projects/Berkemah.png',
+  },
 ];
