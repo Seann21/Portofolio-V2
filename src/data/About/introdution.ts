@@ -4,7 +4,7 @@ export const introduction: string[] = [
     new Date('2003-11-28')
   )} years old. I'm an Information Systems Student at Nusantara University PGRI Kediri.`,
   'My favorite programming language is TypeScript, and I enjoy working with React.js or Next.js.',
-  'My interest in technology stems from curiosity about innovations and how popular websites function. Aspiring to become a Software Engineer, I'm committed to developing my skills and contributing to the tech world.',
+  'My interest in technology stems from curiosity about innovations and how popular websites function. Aspiring to become a Software Engineer, Im committed to developing my skills and contributing to the tech world.',
 ];
 
 function calculateAge(birthday: Date) {
