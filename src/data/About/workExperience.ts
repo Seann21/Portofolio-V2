@@ -20,7 +20,7 @@ export const workExperience: IWorkExperience[] = [
       '• Create and implement responsive, appealing web interfaces matching the UI/UX design.',
       '• Work with the back-end team to integrate APIs and ensure web features function smoothly',
       '• Test across browsers and platforms to ensure a consistent user experience on all devices and systems.',
-      '• Participate in the product development cycle from concept to deployment.',
+      '• Adhered to industry standards such as clean code, best practices, and SOLID principles during development.',
     ],
     timePeriod: 'May 2024 - Present',
   },
