@@ -14,7 +14,18 @@ export const workExperience: IWorkExperience[] = [
   //   timePeriod: '2023',
   // },
   {
-    name: 'Front-end Developer ',
+    name: 'Frontend Developer',
+    type: 'Perkumpulan Sosial Ekonomi Akselerator Lab (SEAL) | MSIB Batch 7 Program',
+    tasks: [
+      '• Developed responsive and user-friendly web interfaces using Angular and Tailwind CSS, ensuring alignment with UI/UX designs.',
+      '• Integrated RESTful APIs with the back-end team to optimize web functionality and performance.',
+      '• Conducted meetings with the Japanese client and mentors to discuss project progress, requirements, and feedback. ',
+      '• Conducted cross-browser and cross-platform testing to ensure consistent user experience across devices.',
+    ],
+    timePeriod: 'Sep - Dec 2024',
+  },
+  {
+    name: 'Frontend Developer ',
     type: 'Candidate College ',
     tasks: [
       '• Create and implement responsive, appealing web interfaces matching the UI/UX design.',
@@ -22,10 +33,10 @@ export const workExperience: IWorkExperience[] = [
       '• Test across browsers and platforms to ensure a consistent user experience on all devices and systems.',
       '• Adhered to industry standards such as clean code, best practices, and SOLID principles during development.',
     ],
-    timePeriod: 'May 2024 - Present',
+    timePeriod: 'May - Oct 2024',
   },
   {
-    name: 'Front-end Developer',
+    name: 'Frontend Developer',
     type: 'Project-Based Virtual Intern: Core Initiative Studio x Rakamin Academy',
     tasks: [
       '• Built an e-commerce web application using Vue.js as the primary framework',

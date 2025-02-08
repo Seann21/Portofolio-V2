@@ -4,7 +4,7 @@ export const education: IEducation[] = [
   {
     name: 'Nusantara University PGRI Kediri',
     type: 'University',
-    major: 'Information Systems (Current GPA: 3.73)',
+    major: 'Information Systems (Current GPA: 3.84)',
     timePeriod: '2022 - present',
   },
   {
