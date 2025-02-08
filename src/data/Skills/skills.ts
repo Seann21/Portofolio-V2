@@ -130,6 +130,7 @@ export const skills: Skill[] = [
     name: 'Vite',
     category: 'Framework/Library',
     icon: 'vite.svg',
+    show: false
   },
   {
     name: 'Zustand',
@@ -181,6 +182,11 @@ export const skills: Skill[] = [
     category: 'Framework/Library',
     icon: 'laravel.svg',
    },
+   {
+    name: 'Angular js',
+    category: 'Framework/Library',
+    icon: 'angular.png',
+   },
   {
     name: 'Framer Motion',
     category: 'Framework/Library',
@@ -208,6 +214,7 @@ export const skills: Skill[] = [
     name: 'Bun',
     category: 'Framework/Library',
     icon: 'bun.png',
+    show: false
   },
   {
     name: 'tRPC',
