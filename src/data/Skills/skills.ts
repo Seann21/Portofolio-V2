@@ -102,6 +102,7 @@ export const skills: Skill[] = [
     name: 'Express.js',
     category: 'Framework/Library',
     icon: 'express.png',
+    show: false
   },
    {
     name: 'Vue.js',
@@ -181,6 +182,7 @@ export const skills: Skill[] = [
     name: 'laravel',
     category: 'Framework/Library',
     icon: 'laravel.svg',
+    show: false
    },
    {
     name: 'Angular js',

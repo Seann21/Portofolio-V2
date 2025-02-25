@@ -2,7 +2,7 @@ export const projectCategories = [
   'Website',
   // 'Bot',
   // 'CLI',
-  'API',
+  // 'API',
   // 'Suckless Build',
-  'Misc',
+  'Games/Productivy',
 ] as const;
