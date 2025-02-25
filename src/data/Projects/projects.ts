@@ -49,7 +49,7 @@ export const projects: Project[] = [
   },
   {
     name: 'Certificate Generator',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: 'This project is a web application that allows you to create certificates easily and quickly. Users can enter information such as participant names, program names, dates, and logos, and the app will automatically generate professional-looking certificates.',
     link: {
       demo: 'https://certificate-generator-flax.vercel.app/',
@@ -101,7 +101,7 @@ export const projects: Project[] = [
   },
   {
     name: 'Arena Poinball',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: 'Poin Ball is a simple project showcasing a pinball game with a futuristic-themed GIF background.', 
     link: {
       repo: 'https://github.com/Seann21/Arena-Poinball',
@@ -113,7 +113,7 @@ export const projects: Project[] = [
 
   {
     name: 'Language Translator ',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: 'Language Translator is a language translator that uses an interface like Google Translate but is easier to understand',
     link: {
       repo: 'https://github.com/Seann21/language-translator',
@@ -124,7 +124,7 @@ export const projects: Project[] = [
   },
   {
     name: 'Battery Detector',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: 'On this website interface, there is a display that displays information about the battery strength level in the form of a percentage or numerical value that can be read by the user. This interface can be created using HTML and CSS to determine the layout and styling of existing elements',
     link: {
       demo: 'https://battery-detector-one.vercel.app/',
@@ -135,7 +135,7 @@ export const projects: Project[] = [
   },
   {
     name: 'Notepad Online',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: 'This online notepad is a web interface that makes it easy to create text and then edit that text with existing features such as Word',
     link: {
       demo: 'https://notepad-online-seven.vercel.app/',
@@ -143,17 +143,6 @@ export const projects: Project[] = [
     },
     tech: ['HTML', 'CSS', 'JavaScript'],
     image: '/images/projects/Notepad.png',
-  },
-  {
-    name: 'Bookshelf api',
-    category: 'API',
-    desc: 'Dicoding beginner Back-end Submission',
-    link: {
-      repo: 'https://github.com/Seann21/Bookshelf-api',
-      demo: null,
-    },
-    tech: ['JavaScript', 'Node.js'],
-    image: '/images/projects/apibookshelf.png',
   },
   {
     name: 'Portfolio Website v1',
@@ -218,7 +207,7 @@ export const projects: Project[] = [
   },
   {
     name: 'Password Generator',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: 'The Futuristic Password Generator project is an application designed to create secure and unique passwords with an eye-catching futuristic background.',
     link: {
       demo: 'https://password-generator-pied-iota.vercel.app/',
@@ -233,7 +222,7 @@ export const projects: Project[] = [
   },
   {
     name: 'Immposible Checkbox',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: 'Impossible Checkbox project is an innovative application that introduces a unique interaction where checking a checkbox triggers an animation involving a bear that dynamically disables the checkbox.',
     link: {
       demo: 'https://impossible-checkbox.vercel.app/',
@@ -244,7 +233,7 @@ export const projects: Project[] = [
   },
   {
     name: 'My College 3rd assignments',
-    category: 'Misc',
+    category: 'Games/Productivy',
     desc: '3rd semester assignments for basic web programming',
     link: {
       repo: 'https://github.com/Seann21/College-Assignment',
